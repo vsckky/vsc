@@ -98,7 +98,7 @@
     "description": "Oploverz Sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Animasu.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Animasu/Animasu.cs3",
     "status": 1,
     "version": 10,
     "apiVersion": 1,
@@ -108,7 +108,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA"],
     "fileSize": 23100,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/animasu.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Animasu/animasu.png",
     "description": "Animasu sub indo"
   },
   {
