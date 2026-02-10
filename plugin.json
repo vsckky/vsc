@@ -182,7 +182,7 @@
     "description": "MovieBox all sub"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Funmovieslix.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Funmovieslix/Funmovieslix.cs3",
     "status": 1,
     "version": 3,
     "apiVersion": 1,
@@ -192,7 +192,7 @@
     "language": "id",
     "tvTypes": ["Movie", "TvSeries"],
     "fileSize": 21220,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/funmovieslix.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Funmovieslix/funmovieslix.png",
     "description": "Funmovieslix sub indo"
   },
   {
