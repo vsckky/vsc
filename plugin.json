@@ -295,7 +295,7 @@
     "description": "Nontonfilm sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/AnichinMoe.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Anichin/AnichinMoe.cs3",
     "status": 1,
     "version": 25,
     "apiVersion": 1,
@@ -305,7 +305,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA", "Donghua"],
     "fileSize": 31640,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/anichin.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Anichin/anichin.png",
     "description": "Anichin.care sub indo"
   },
   {
