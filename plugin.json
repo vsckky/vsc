@@ -348,5 +348,19 @@
     "fileSize": 54880,
     "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/NetflixMirror/Netflix.jpg",
     "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) konten dalam berbagai bahasa"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/DramaChina/Dracin/DracinProvider.cs3",
+    "status": 1,
+    "version": 2,
+    "apiVersion": 1,
+    "name": "Dracin",
+    "internalName": "Dracin",
+    "authors": ["sudikama"],
+    "language": "id",
+    "tvTypes": ["TvSeries",  "AsianDrama", "Movie"],
+    "fileSize": 93170,
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/DramaChina/Icon/D.jpg",
+    "description": "Berbagai sumber drama & movie streaming provider (DramaBox, ReelShort, NetShort, Melolo, FlickReels, FreeReels, MovieBox)"
   }
 ]
