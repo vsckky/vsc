@@ -37,6 +37,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Nekopoi       | Bekerja  |
 | Nimegami      | Bekerja  |
 | Nontonfilm    | Bekerja  |
+| NetflixMirror | Bekerja  |
 | Oploverz      | Bekerja  |
 | Otakudesu     | Bekerja  |
 | Samehadaku    | Bekerja  |
