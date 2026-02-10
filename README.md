@@ -79,7 +79,7 @@ apa itu DNS? DNS adalah alamat IP server DNS yang berfungsi menerjemahkan nama d
 <details>
   <summary>𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙨𝙞</summary>
 
-Vsccloud adalah kumpulan ekstensi CloudStream yang berfokus pada penyediaan konten streaming dari berbagai sumber di Indonesia. Repositori ini berisi ekstensi yang memperluas fungsionalitas aplikasi CloudStream, memungkinkan pengguna untuk menikmati berbagai macam film, serial, dan anime dari situs-situs populer di Indonesia.
+VscCloud adalah kumpulan ekstensi CloudStream yang berfokus pada penyediaan konten streaming dari berbagai sumber di Indonesia. Repositori ini berisi ekstensi yang memperluas fungsionalitas aplikasi CloudStream, memungkinkan pengguna untuk menikmati berbagai macam film, serial, dan anime dari situs-situs populer di Indonesia.
 
 ## Fitur Utama
 
@@ -107,7 +107,3 @@ Vsccloud adalah kumpulan ekstensi CloudStream yang berfokus pada penyediaan kont
 - [Laporkan ](https://github.com/vsckky/vsc/issues)
 
 
-</details>
----
-
-![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
