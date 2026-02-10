@@ -100,6 +100,14 @@ tap logo di bawah
 
 </details>
 
+<details>
+  <summary>𝙇𝙖𝙥𝙤𝙧𝙠𝙖𝙣 𝙢𝙖𝙨𝙖𝙡𝙖𝙝🔧</summary>
+
+
+- [Laporkan: ](https://github.com/vsckky/vsc/issues)
+
+
+</details>
 ---
 
 ![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
