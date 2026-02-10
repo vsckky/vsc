@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/KuramanimeProvider.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Kuramanime/KuramanimeProvider.cs3",
     "status": 1,
     "version": 47,
     "apiVersion": 1,
@@ -10,7 +10,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA"],
     "fileSize": 30960,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/logo-full-256.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Kuramanime/Kuramanime.png",
     "description": "Kuramanime sub indo"
   },
   {
