@@ -335,5 +335,18 @@
     "fileSize": 16990,
     "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Anoboy/anoboy.png",
     "description": "anoboy sub indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/NetflixMirror/NetflixMirrorProvider.cs3",
+    "status": 1,
+    "version": 44,
+    "apiVersion": 1,
+    "name": "NetflixMirror",
+    "internalName": "NetflixMirror",
+    "authors": ["megix"],
+    "tvTypes": ["TvSeries", "Anime", "Movie", "AsianDrama"],
+    "fileSize": 54880,
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/NetflixMirror/Netflix.jpg",
+    "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) konten dalam berbagai bahasa"
   }
 ]
