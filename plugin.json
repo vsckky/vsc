@@ -70,7 +70,7 @@
     "description": "Melongmovie sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Dutamovie.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Dutamovie/Dutamovie.cs3",
     "status": 1,
     "version": 16,
     "apiVersion": 1,
@@ -80,7 +80,7 @@
     "language": "id",
     "tvTypes": ["TvSeries",  "AsianDrama", "Movie"],
     "fileSize": 32450,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/dutamovie.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Dutamovie/dutamovie.jpg",
     "description": "Dutamovie sub indo"
   },
   {
