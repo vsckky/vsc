@@ -42,7 +42,7 @@
     "description": "kuronime Sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/IdlixProvider.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Idlix/IdlixProvider.cs3",
     "status": 1,
     "version": 2,
     "apiVersion": 1,
@@ -52,7 +52,7 @@
     "language": "id",
     "tvTypes": ["TvSeries", "Anime", "OVA", "Movie","AsianDrama"],
     "fileSize": 27770,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Idlix.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Idlix/Idlix.jpg",
     "description": "Idlix sub indo"
   },
   {
