@@ -140,7 +140,7 @@
     "description": "Contains Sea TV (Chinese)"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Samehadaku.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Samehadaku/Samehadaku.cs3",
     "status": 1,
     "version": 24,
     "apiVersion": 1,
@@ -150,7 +150,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA"],
     "fileSize": 17430,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/128x128.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Samehadaku/samehadaku.png",
     "description": "Samehadaku sub indo"
   },
   {
