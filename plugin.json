@@ -224,7 +224,7 @@
     "description": "Filmkita sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Dubbindo.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Dubbindo/Dubbindo.cs3",
     "status": 1,
     "version": 2,
     "apiVersion": 1,
@@ -234,7 +234,7 @@
     "language": "id",
     "tvTypes": ["TvSeries",  "Anime", "Movie","Cartoon"],
     "fileSize": 12520,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Dubbindo.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Dubbindo/Dubbindo.png",
     "description": "Dubbindo sub indo"
   },
   {
