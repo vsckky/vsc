@@ -95,6 +95,6 @@ VscCloud adalah kumpulan ekstensi CloudStream yang berfokus pada penyediaan kont
   <summary>𝙇𝙖𝙥𝙤𝙧𝙠𝙖𝙣 𝙢𝙖𝙨𝙖𝙡𝙖𝙝🔧</summary>
 
 
-- [Laporkan ](https://github.com/vsckky/vsc/issues)
+- [Issues ](https://github.com/vsckky/vsc/issues)
 
 
