@@ -323,7 +323,7 @@
     "description": "Pusatmovie sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Anoboy.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Anoboy/Anoboy.cs3",
     "status": 1,
     "version": 1,
     "apiVersion": 1,
@@ -333,7 +333,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA"],
     "fileSize": 16990,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/anoboy.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Anoboy/anoboy.png",
     "description": "anoboy sub indo"
   }
 ]
