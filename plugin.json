@@ -252,7 +252,7 @@
     "description": "Indomax sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/IndonesiaTV.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/IndonesiaTV/IndonesiaTV.cs3",
     "status": 1,
     "version": 3,
     "apiVersion": 1,
@@ -262,7 +262,7 @@
     "language": "id",
     "tvTypes": ["Live"],
     "fileSize": 14590,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/IndonesiaTv.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/IndonesiaTV/IndonesiaTv.jpg",
     "description": "IndonesiaTv Live streaming"
   },
   {
