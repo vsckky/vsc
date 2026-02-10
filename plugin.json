@@ -28,7 +28,7 @@
     "description": "Donghub Sub Indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/KuronimeProvider.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Kuronime/KuronimeProvider.cs3",
     "status": 1,
     "version": 21,
     "apiVersion": 1,
@@ -38,7 +38,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA"],
     "fileSize": 24970,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/kuronime.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Kuronime/kuronime.jpg",
     "description": "kuronime Sub indo"
   },
   {
