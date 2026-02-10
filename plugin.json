@@ -154,7 +154,7 @@
     "description": "Samehadaku sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Nekopoi.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Nekopoi/Nekopoi.cs3",
     "status": 1,
     "version": 7,
     "apiVersion": 1,
@@ -164,7 +164,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA", "NSFW"],
     "fileSize": 24160,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Nekopoi.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Nekopoi/Nekopoi.jpg",
     "description": "PERINGATAN: situs dewasa🔞"
   },
   {
