@@ -104,7 +104,7 @@ tap logo di bawah
   <summary>𝙇𝙖𝙥𝙤𝙧𝙠𝙖𝙣 𝙢𝙖𝙨𝙖𝙡𝙖𝙝🔧</summary>
 
 
-- [Laporkan: ](https://github.com/vsckky/vsc/issues)
+- [Laporkan ](https://github.com/vsckky/vsc/issues)
 
 
 </details>
