@@ -309,7 +309,7 @@
     "description": "Anichin.care sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Pusatmovie.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Pusatmovie/Pusatmovie.cs3",
     "status": 1,
     "version": 1,
     "apiVersion": 1,
@@ -319,7 +319,7 @@
     "language": "id",
     "tvTypes": ["TvSeries",  "AsianDrama", "Movie"],
     "fileSize": 22830,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Pusatmovie.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Pusatmovie/Pusatmovie.jpg",
     "description": "Pusatmovie sub indo"
   },
   {
