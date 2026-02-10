@@ -91,16 +91,6 @@ VscCloud adalah kumpulan ekstensi CloudStream yang berfokus pada penyediaan kont
 </details>
 
 <details>
-  <summary>𝙩𝙞𝙠𝙩𝙤𝙠 𝙨𝙖𝙮𝙖</summary>
-
-- tap logo di bawah
-
-
-[!(https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@vsc2048?_r=1&_t=ZS-93mtNNKE3S4)
-
-</details>
-
-<details>
   <summary>𝙇𝙖𝙥𝙤𝙧𝙠𝙖𝙣 𝙢𝙖𝙨𝙖𝙡𝙖𝙝🔧</summary>
 
 
