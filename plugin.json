@@ -168,7 +168,7 @@
     "description": "PERINGATAN: situs dewasa🔞"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/MovieBoxProvider.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/MovieBox/MovieBoxProvider.cs3",
     "status": 1,
     "version": 6,
     "apiVersion": 1,
@@ -178,7 +178,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA", "Movie", "TvSeries"],
     "fileSize": 31850,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/MovieBox.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/MovieBox/MovieBox.png",
     "description": "MovieBox all sub"
   },
   {
