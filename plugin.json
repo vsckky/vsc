@@ -210,7 +210,7 @@
     "description": "Nimegami sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Filmkita.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Filmkita/Filmkita.cs3",
     "status": 1,
     "version": 1,
     "apiVersion": 1,
@@ -220,7 +220,7 @@
     "language": "id",
     "tvTypes": ["TvSeries",  "AsianDrama", "Movie"],
     "fileSize": 22090,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Filmkita.jpg",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Filmkita/Filmkita.jpg",
     "description": "Filmkita sub indo"
   },
   {
