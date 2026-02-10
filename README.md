@@ -79,10 +79,15 @@ apa itu DNS? DNS adalah alamat IP server DNS yang berfungsi menerjemahkan nama d
 <details>
   <summary>𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙨𝙞</summary>
 
-## 📝Catatan
+IndoStream adalah kumpulan ekstensi CloudStream yang berfokus pada penyediaan konten streaming dari berbagai sumber di Indonesia. Repositori ini berisi ekstensi yang memperluas fungsionalitas aplikasi CloudStream, memungkinkan pengguna untuk menikmati berbagai macam film, serial, dan anime dari situs-situs populer di Indonesia.
 
-⚠︎ kalau mau u͟p͟d͟a͟t͟e͟ sendiri, silahkan forks
-   lalu ganti versi
+## Fitur Utama
+
+*   **Beragam Sumber Konten:** Akses konten dari berbagai situs streaming populer di Indonesia.
+*   **Mudah Digunakan:** Instalasi dan penggunaan yang sederhana melalui aplikasi CloudStream.
+*   **Pembaruan Reguler:** Ekstensi diperbarui secara berkala untuk memastikan kompatibilitas dan ketersediaan konten.
+*   **Fokus pada Konten Indonesia:** Kumpulan ekstensi ini berfokus pada konten yang relevan dengan pengguna di Indonesia.
+
 
 
 -𝑠𝑒𝑙𝑎𝑚𝑎𝑡 𝑚𝑒𝑛𝑐𝑜𝑏𝑎.☕︎
