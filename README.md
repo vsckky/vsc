@@ -21,20 +21,22 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | Anichin       | Bekerja  |
 | Animasu       | Bekerja  |
 | AnimeSail     | Bekerja  |
+| Dracin        | Bekerja  |
 | Donghub       | Bekerja  |
 | Dubbindo      | Bekerja  |
 | DutaMovie     | Bekerja  |
+| DramaDarmo    | Bekerja  |
 | Donghuastream | Bekerja  |
-| Funmovieslix  | Bekerja  |
 | Filmkita      | Bekerja  |
+| Funmovieslix  | Bekerja  |
 | Idlix         | Bekerja  |
 | IndoMax       | Bekerja  |
 | IndonesiaTv   | Bekerja  |
-| Kuramanime    | butuh VPN, link error |
 | Kuronime      | Bekerja  |
-| Melongmovie   | Bekerja  |
+| Kuramanime    | butuh VPN, link error |
 | MovieBox      | Bekerja  |
-| Nekopoi       | Bekerja  |
+| Melongmovie   | Bekerja  |
+| Nekopoi       | Bekerja/ VPN/ DNS  |
 | Nimegami      | Bekerja  |
 | Nontonfilm    | Bekerja  |
 | NetflixMirror | Bekerja  |
