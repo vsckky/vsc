@@ -93,7 +93,7 @@ apa itu DNS? DNS adalah alamat IP server DNS yang berfungsi menerjemahkan nama d
 <details>
   <summary>𝙩𝙞𝙠𝙩𝙤𝙠 𝙨𝙖𝙮𝙖</summary>
 
-tap logo di bawah
+- tap logo di bawah
 
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@vsc2048?_r=1&_t=ZS-93mtNNKE3S4)
