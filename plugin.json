@@ -196,7 +196,7 @@
     "description": "Funmovieslix sub indo"
   },
   {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/extension/Nimegami.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Nimegami/Nimegami.cs3",
     "status": 1,
     "version": 12,
     "apiVersion": 1,
@@ -206,7 +206,7 @@
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA"],
     "fileSize": 22330,
-    "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/cloudstream-kuramanime/main/icon/Nimegami.png",
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/Nimegami/Nimegami.png",
     "description": "Nimegami sub indo"
   },
   {
