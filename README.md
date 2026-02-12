@@ -34,6 +34,7 @@ Berikut adalah daftar ekstensi yang tersedia di repositori VscCloud:
 | IndonesiaTv   | Bekerja  |
 | Kuronime      | Bekerja  |
 | Kuramanime    | butuh VPN, link error |
+| LayarKaca     | Bekerja  |
 | MovieBox      | Bekerja  |
 | Melongmovie   | Bekerja  |
 | Nekopoi       | Bekerja/ VPN/ DNS  |
