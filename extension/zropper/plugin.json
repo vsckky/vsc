@@ -376,5 +376,19 @@
     "fileSize": 29415,
     "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/DramaChina/Icon/D.jpg",
     "description": "DramaDarmo - 17 platform drama (DramaBox, Shortmax, NetShort, ReelShort, Dan masih banyak lagi)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/LayarKaca/LayarKacaProvider.cs3",
+    "status": 1,
+    "version": 10,
+    "apiVersion": 1,
+    "name": "LayarKaca",
+    "internalName": "LayarKaca",
+    "authors": ["duro92","Alivsc"],
+    "language": "id",
+    "tvTypes": ["TvSeries",  "AsianDrama", "Movie"],
+    "fileSize": 26240,
+    "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/LayarKaca/LayarKaca.jpg",
+    "description": "LayarKaca sub indo"
   }
 ]
