@@ -168,16 +168,16 @@
     "description": "PERINGATAN: situs dewasa🔞"
   },
   {
-    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/MovieBox/MovieBoxProvider.cs3",
+    "url": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/MovieBox/Moviebox.cs3",
     "status": 1,
     "version": 6,
     "apiVersion": 1,
     "name": "MovieBox",
     "internalName": "MovieBox",
-    "authors": ["NivinCNC", "Phisher98", "Alivsc"],
+    "authors": ["NivinCNC", "Asm0d3usX", "Alivsc"],
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA", "Movie", "TvSeries"],
-    "fileSize": 31850,
+    "fileSize": 74677,
     "iconUrl": "https://raw.githubusercontent.com/vsckky/vsc/main/extension/MovieBox/MovieBox.png",
     "description": "MovieBox all sub"
   },
